@@ -1,0 +1,24 @@
+# Core agent framework
+langgraph
+langchain
+langchain-core
+
+# Google Gemini API (free credits as recommended)
+google-generativeai
+google-ai-generativelanguage
+langchain-google-genai
+
+# Data processing
+pandas
+numpy
+
+# PDF processing
+PyPDF2
+pdfplumber
+
+# Testing
+pytest
+pytest-cov
+
+# Type hints and utilities
+typing-extensions
